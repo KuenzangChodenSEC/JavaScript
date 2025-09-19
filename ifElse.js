@@ -26,7 +26,7 @@ switch (day) // Start of switch statement
 
 
 // Ternary
-let a = 10;
+let x = 10;
 console.log(a === 5 ? "a is equal to 5" : "a is not equal to 5");
 
 for (let i = 1; i <= 3; i++) {
@@ -41,7 +41,7 @@ for (let i = 1; i <= 3; i++) {
 
 
 // while loop
-let i = 0;
+let n = 0;
 while (i < 3) {
    console.log("Number:", i);
    i++;
