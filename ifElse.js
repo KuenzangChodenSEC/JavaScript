@@ -41,7 +41,11 @@ for (let i = 1; i <= 3; i++) {
 
 
 // while loop
+<<<<<<< HEAD
 let a = 0;
+=======
+let n = 0;
+>>>>>>> d6c23caed53b0d9cf548d8672df32cbc359e76db
 while (i < 3) {
    console.log("Number:", i);
    i++;
