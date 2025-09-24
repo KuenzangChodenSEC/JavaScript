@@ -26,7 +26,7 @@ switch (day) // Start of switch statement
 
 
 // Ternary
-let a = 10;
+let x = 10;
 console.log(a === 5 ? "a is equal to 5" : "a is not equal to 5");
 
 for (let i = 1; i <= 3; i++) {
@@ -41,7 +41,7 @@ for (let i = 1; i <= 3; i++) {
 
 
 // while loop
-let i = 0;
+let a = 0;
 while (i < 3) {
    console.log("Number:", i);
    i++;
@@ -67,7 +67,7 @@ for (let key in obj) // loop through each key in the object
 
 
 // for-of
-let a = [1, 2, 3, 4, 5]; // Sample array
+let n = [1, 2, 3, 4, 5]; // Sample array
 // Iterate over the array using for...of loop
 for (let val of a) // loop through each value in the array
 {
